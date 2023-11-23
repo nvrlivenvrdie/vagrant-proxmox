@@ -34,7 +34,7 @@ Install using standard Vagrant plugin method:
 $ vagrant plugin install vagrant-proxmox
 ```
 
-This will install the plugin from [RubGems.org](http://rubygems.org/).
+This will install the plugin from [RubyGems.org](http://rubygems.org/).
 
 ## Usage
 
